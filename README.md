@@ -6,7 +6,7 @@
 
 **Live preview: [click me](https://cyril-mp.github.io/simply-recipes-project/)**
 
-A `HTML CSS& JS` Project. Made with ♥ . There will be 5 pages in the website (HomePage,AboutPage,TagsPage,RecipesPage,ContactPage). In this project we gonna learn how we can create a website using simple `HTML, CSS & JS`. The main purpose of the project is to get used to  HTML & CSS.
+A `HTML CSS & JS` Project. Made with ♥ . There will be 5 pages in the website (HomePage,AboutPage,TagsPage,RecipesPage,ContactPage). In this project we gonna learn how we can create a website using simple `HTML, CSS & JS`. The main purpose of the project is to get used to  HTML & CSS.
 
 ## What we are going to learn
 
